@@ -1,0 +1,517 @@
+/* ========================= lg start ============================ */
+@media(min-width:992px) and (max-width:1199.98px){
+    .banner-text p {
+        padding: 0 10px;
+    }
+    .mobile-list i {
+	margin-right: 18px;
+	margin-left: 16px;
+}  
+}
+/* ========================= lg end   ============================ */
+/* ========================= md start ============================ */
+@media(min-width:768px) and (max-width:991.98px) {
+    .navbar{
+        padding: 10px 0 !important;
+    }
+    .navbar-brand img {
+        width: 120px;
+    }
+    .banner-text h3 {
+        font-size: 22px;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        border-color:transparent;
+    }
+    .navbar-toggler:focus {
+        box-shadow:none;
+    }
+    .navbar-nav {
+        background: #362f2d;
+        text-align: center;
+        margin-top: 15px;
+        padding: 15px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding-left: 0px;
+        padding-top: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color: #c7b299;
+    }
+    .banner-text p {
+        padding: 0 60px;
+    }
+    #service {
+        padding-top: 45px;
+        padding-bottom: 30px;
+    }
+    .service-item{
+        padding-bottom: 60px;
+    }
+    #idea {
+        padding-top: 40px;
+    }
+    .purchase-text span {
+        font-size: 24px;
+    }
+    .purchase-text h5 {
+        font-size: 23px;
+    }
+    .purchase-text p {
+        font-size: 17px;
+    }
+    .purchase-button a {
+        padding: 12px 24px;
+    }
+    .project-text {
+        padding-top: 20px;
+        padding-bottom: 12px;
+        padding-left: 20px;
+    }
+    .project-text h5 {
+        font-size: 15px;
+    }
+    #video {
+        padding-top: 180px;
+        padding-bottom: 180px;
+    }
+    #project {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .mobile-item {
+        padding-top: 0px;
+        padding-bottom: 45px;
+    }
+    .mobile-heading h2 {
+        padding-top: 65px;
+    }
+    .mobile-img {
+        padding-top:65px;
+    }
+    .mobile-heading h2 {
+        font-size: 27px;
+    }
+    .mobile-heading p {
+        font-size: 14px;
+        line-height: 22px;
+        padding-top: 8px;
+    }
+    .mobile-list p {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 0;
+        padding-bottom: 5px;
+    }
+    .mobile-list i {
+        font-size: 9px;
+        height: 18px;
+        width: 18px;
+        line-height: 18px;
+        margin-right: 12px;
+        margin-left: 0px;
+    }
+    #counter {
+        padding-top: 45px;
+        padding-bottom: 25px;
+    }
+    .counter-item{
+        padding-bottom: 50px;
+    }
+    .counter-item i {
+        padding-bottom: 18px;
+    }
+    #post {
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+    .post-text {
+        padding: 18px;
+    }
+    .post-text h3 {
+        font-size: 18px;
+        line-height: 22px;
+    }
+    .post-text p {
+        font-size: 14px;
+    }
+    #brand {
+        padding-top: 90px;
+        padding-bottom: 90px;
+    }
+    #footer {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .copyright-left p a {
+        padding: 0 6px;
+        line-height: 22px;
+    }
+    #copyright {
+        padding-top: 40px;
+        padding-bottom: 25px;
+    }
+}
+/* ========================= md end   ============================ */
+/* ========================= sm start ============================ */
+@media(min-width:576px) and (max-width:767.98px){
+    .navbar{
+        padding: 10px 0 !important;
+    }
+    .navbar-brand img {
+        width: 120px;
+    }
+    .banner-text h3 {
+        font-size: 22px;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        border-color:transparent;
+    }
+    .navbar-toggler:focus {
+        box-shadow:none;
+    }
+    .navbar-nav {
+        background: #362f2d;
+        text-align: center;
+        margin-top: 15px;
+        padding: 15px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding-left: 0px;
+        padding-top: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color: #c7b299;
+    }
+    .banner-text h1 {
+        font-size: 45px;
+        line-height: 50px;
+    }
+    .banner-text p {  
+        padding: 0px;
+        padding-bottom: 15px;
+    }
+    #banner{
+        height: 80vh;
+    }
+    .banner-main {
+        height: 80vh;
+    }
+    .banner-text a {
+        font-size: 12px;
+        padding: 12px 30px;
+    }
+    #service {
+        padding-top: 45px;
+        padding-bottom: 30px;
+    }
+    .service-item{
+        padding-bottom: 60px;
+    }
+    #idea {
+        padding-top: 40px;
+    }
+    #purchase {
+        padding-top: 30px;
+        padding-bottom: 25px;
+    }
+    .purchase-text{
+        text-align: center;
+    }
+    .purchase-text h5 {
+        font-size: 25px;
+        line-height: 28px;
+    }
+    .purchase-button{
+        padding-top: 25px;
+        text-align: center !important;
+    }
+    .purchase-button a {
+        padding: 12px 25px;
+    }
+    #project {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .project-category button {
+        padding: 5px 12px;
+    }
+    .project-category {
+        padding-top: 5px;
+        padding-bottom: 20px;
+    }
+    .project-text h5 {
+        font-size: 16px;
+    }
+    .project-button a {
+        font-size: 12px;
+        padding: 10px 30px;
+    }
+    #video {
+        padding-top: 120px;
+        padding-bottom: 130px;
+    }
+    #mobile{
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+    .mobile-list i {  
+        margin-right: 15px;
+    }
+    .video-text p {
+        line-height: 24px;
+    }
+    .mobile-img {
+        padding-top: 40px;
+    }
+    .mobile-heading h2 {
+        padding-top: 50px;
+        font-size: 21px;
+    }
+    .mobile-heading p {
+        line-height: 24px;
+        padding-top: 10px;
+    }
+    .mobile-item {
+        padding-top: 0px;
+    }
+    .mobile-list i {
+        margin-left: 0px;
+    }
+    .mobile-list p {
+        font-size: 14px;
+    }
+    #counter {
+        padding-top: 45px;
+        padding-bottom: 25px;
+    }
+    .counter-item{
+        padding-bottom: 50px;
+    }
+    .counter-item i {
+        padding-bottom: 18px;
+    }
+    #post {
+        padding-top: 45px;
+        padding-bottom: 70px;
+    }
+    .post-text h3 {
+        font-size: 14px;
+        padding-bottom: 5px;
+    }
+    #brand {
+        padding-top: 60px;
+        padding-bottom: 60px; 
+    }
+    #footer {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .copyright-left p a {
+        line-height: 22px;
+    }
+    .copyright-right{
+        text-align: left!important;
+    }
+}
+/* ========================= sm end   ============================ */
+/* ========================= xsm start ============================ */
+@media(max-width:575.98px){
+    .navbar{
+        padding: 10px 0 !important;
+    }
+    .navbar-brand img {
+        width: 120px;
+    }
+    .banner-text h3 {
+        font-size: 22px;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .navbar-light .navbar-toggler {
+        border-color:transparent;
+    }
+    .navbar-toggler:focus {
+        box-shadow:none;
+    }
+    .navbar-nav {
+        background: #362f2d;
+        text-align: center;
+        margin-top: 15px;
+        padding: 15px 0;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item {
+        padding-left: 0px;
+        padding-top: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        font-size: 15px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link:hover {
+        color: #c7b299;
+    }
+    .banner-text h1 {
+        font-size: 46px;
+        line-height: 50px;
+    }
+    .banner-text p {  
+        padding: 0px;
+        padding-bottom: 15px;
+    }
+    #banner{
+        height: 80vh;
+    }
+    .banner-main {
+        height: 80vh;
+    }
+    .banner-text a {
+        font-size: 12px;
+        padding: 12px 30px;
+    }
+    #service {
+        padding-top: 45px;
+        padding-bottom: 40px;
+    }
+    .service-item{
+        padding-bottom: 60px;
+    }
+    #idea {
+        padding-top: 40px;
+    }
+    .heading h2 {
+        color: #555555;
+        font-family: 'Raleway', sans-serif;
+        font-weight: 600;
+        font-size: 26px;
+    }
+    #purchase {
+        padding-top: 30px;
+        padding-bottom: 25px;
+    }
+    .purchase-text span {
+        font-size: 22px;
+    }
+    .purchase-text{
+        text-align: center;
+    }
+    .purchase-text h5 {
+        font-size: 22px;
+        line-height: 20px;
+    }
+    .purchase-text p {
+        font-size: 15px;
+    }
+    .purchase-button{
+        text-align: center!important;
+    }
+    .purchase-button a {
+        font-size: 12px;
+        padding: 9px 22px;
+    }
+    #project {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .project-category {
+        padding-top: 5px;
+        padding-bottom: 20px;
+    }
+    .project-category button {
+        padding: 2px 12px;
+        margin: 4px 2.5px;
+    }
+    .project-button a {
+        font-size: 12px;
+        padding: 10px 30px;
+    }
+    #video {
+        padding-top: 120px;
+        padding-bottom: 130px;
+    }
+    .video-text i {
+        font-size: 60px;
+        height: 90px;
+        width: 90px;
+        line-height: 90px;
+    }
+    .video-text i::after {
+        width: 90px;
+        height: 90px;
+    }
+    .video-text h3 {
+        font-size: 22px;
+    }
+    #mobile{
+        padding-bottom: 24px;
+    }
+    .video-text p {
+        line-height: 24px;
+    }
+    .mobile-img {
+        padding-top: 40px;
+    }
+    .mobile-heading h2 {
+        padding-top: 50px;
+        font-size: 21px;
+    }
+    .mobile-heading p {
+        line-height: 24px;
+        padding-top: 10px;
+    }
+    .mobile-item {
+        padding-top: 0px;
+    }
+    .mobile-list i {
+        margin-left: 0px;
+    }
+    .mobile-list p {
+        font-size: 14px;
+    }
+    #counter {
+        padding-top: 45px;
+        padding-bottom: 25px;
+    }
+    .counter-item{
+        padding-bottom: 50px;
+    }
+    .counter-item i {
+        padding-bottom: 18px;
+    }
+    #post {
+        padding-top: 45px;
+        padding-bottom: 70px;
+    }
+    .post-text h3 {
+        font-size: 18px;
+        padding-bottom: 5px;
+    }
+    #brand {
+        padding-top: 60px;
+        padding-bottom: 60px; 
+    }
+    #footer {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    .copyright-left p a {
+        line-height: 22px;
+    }
+    .copyright-right{
+        text-align: left!important;
+    }
+}
+/* ========================= xsm end   ============================ */
